@@ -20,4 +20,4 @@ https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-express
 MongDB Atlas used for Project
 Create ACC on Atlas
 Install Monngos ==== npm i mongoose
-install cors === npm i cors
+install cors === npm i cors ("CORS corse origin Side ")
