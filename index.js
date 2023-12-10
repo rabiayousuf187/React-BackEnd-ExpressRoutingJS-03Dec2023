@@ -1,5 +1,9 @@
 var express = require('express');
-var app = express();
+const mongoose = require("mongoose");
+const app = express();
+const cors = require("cors")
+app.use(express.json())
+app.use(cors())
 const port = 5001;
 
 // Bases on MVC
