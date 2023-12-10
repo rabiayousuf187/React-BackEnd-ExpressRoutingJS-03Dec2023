@@ -1,0 +1,18 @@
+For ExpressJS
+* npm init, enter enter
+ FOllow Geeks link
+https://www.geeksforgeeks.org/express-js/
+link https://expressjs.com/en/starter/installing.html
+
+Dated: 10 dec 2023
+Back End also has UAth and UNauth,
+Network Tab , fetch/XHR for view Api only 
+API  also in group and single :   blog/all, blog/get,blog/delete for this defined as structure, model View Control (MVC), all API did not used in Front end
+MVC: Model, View, cONtroller,Routes , Service(repeated fun as like Auth, session)
+Each enitity has different group api---- app.use(…..)
+Today we implementnode Book Shop
+
+
+Express.Router: 
+replace by app.get… to ruter.get…
+https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-express
