@@ -4,10 +4,10 @@ const users = {
     },
     addUser : (req, res) => {
         let newUser = {
-            firstName: "Iqra",
-            lastName: "Naz",
+            firstName: "John",
+            lastName: "Doe",
             password: "123456",
-            email: "iqra@yopmail.com"
+            email: "Johndoe@gmail.com"
         };
         Users.findOne({ email: newUser.email })
             .then(
